@@ -1,0 +1,15 @@
+C:\Users\Ja\OneDrive - Politechnika Warszawska\Pulpit\Nowy folder (2)\Studia\Sem 5\PAMW PAUM\PADiUM\P1\bin\Debug\net8.0\P1.exe
+C:\Users\Ja\OneDrive - Politechnika Warszawska\Pulpit\Nowy folder (2)\Studia\Sem 5\PAMW PAUM\PADiUM\P1\bin\Debug\net8.0\P1.deps.json
+C:\Users\Ja\OneDrive - Politechnika Warszawska\Pulpit\Nowy folder (2)\Studia\Sem 5\PAMW PAUM\PADiUM\P1\bin\Debug\net8.0\P1.runtimeconfig.json
+C:\Users\Ja\OneDrive - Politechnika Warszawska\Pulpit\Nowy folder (2)\Studia\Sem 5\PAMW PAUM\PADiUM\P1\bin\Debug\net8.0\P1.dll
+C:\Users\Ja\OneDrive - Politechnika Warszawska\Pulpit\Nowy folder (2)\Studia\Sem 5\PAMW PAUM\PADiUM\P1\bin\Debug\net8.0\P1.pdb
+C:\Users\Ja\OneDrive - Politechnika Warszawska\Pulpit\Nowy folder (2)\Studia\Sem 5\PAMW PAUM\PADiUM\P1\obj\Debug\net8.0\P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ja\OneDrive - Politechnika Warszawska\Pulpit\Nowy folder (2)\Studia\Sem 5\PAMW PAUM\PADiUM\P1\obj\Debug\net8.0\P1.AssemblyInfoInputs.cache
+C:\Users\Ja\OneDrive - Politechnika Warszawska\Pulpit\Nowy folder (2)\Studia\Sem 5\PAMW PAUM\PADiUM\P1\obj\Debug\net8.0\P1.AssemblyInfo.cs
+C:\Users\Ja\OneDrive - Politechnika Warszawska\Pulpit\Nowy folder (2)\Studia\Sem 5\PAMW PAUM\PADiUM\P1\obj\Debug\net8.0\P1.csproj.CoreCompileInputs.cache
+C:\Users\Ja\OneDrive - Politechnika Warszawska\Pulpit\Nowy folder (2)\Studia\Sem 5\PAMW PAUM\PADiUM\P1\obj\Debug\net8.0\P1.sourcelink.json
+C:\Users\Ja\OneDrive - Politechnika Warszawska\Pulpit\Nowy folder (2)\Studia\Sem 5\PAMW PAUM\PADiUM\P1\obj\Debug\net8.0\P1.dll
+C:\Users\Ja\OneDrive - Politechnika Warszawska\Pulpit\Nowy folder (2)\Studia\Sem 5\PAMW PAUM\PADiUM\P1\obj\Debug\net8.0\refint\P1.dll
+C:\Users\Ja\OneDrive - Politechnika Warszawska\Pulpit\Nowy folder (2)\Studia\Sem 5\PAMW PAUM\PADiUM\P1\obj\Debug\net8.0\P1.pdb
+C:\Users\Ja\OneDrive - Politechnika Warszawska\Pulpit\Nowy folder (2)\Studia\Sem 5\PAMW PAUM\PADiUM\P1\obj\Debug\net8.0\P1.genruntimeconfig.cache
+C:\Users\Ja\OneDrive - Politechnika Warszawska\Pulpit\Nowy folder (2)\Studia\Sem 5\PAMW PAUM\PADiUM\P1\obj\Debug\net8.0\ref\P1.dll
