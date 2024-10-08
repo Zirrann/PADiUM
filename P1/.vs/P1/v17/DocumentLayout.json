@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\",
+  "WorkspaceRootPath": "C:\\Users\\userl\\PADiUM\\P1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\ja\\onedrive - politechnika warszawska\\pulpit\\nowy folder (2)\\studia\\sem 5\\pamw paum\\padium\\p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\userl\\padium\\p1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\ja\\onedrive - politechnika warszawska\\pulpit\\nowy folder (2)\\studia\\sem 5\\pamw paum\\padium\\p1\\paypalpayment .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|solutionrelative:paypalpayment .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\ja\\onedrive - politechnika warszawska\\pulpit\\nowy folder (2)\\studia\\sem 5\\pamw paum\\padium\\p1\\creditcardpayment .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|solutionrelative:creditcardpayment .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\ja\\onedrive - politechnika warszawska\\pulpit\\nowy folder (2)\\studia\\sem 5\\pamw paum\\padium\\p1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\ja\\onedrive - politechnika warszawska\\pulpit\\nowy folder (2)\\studia\\sem 5\\pamw paum\\padium\\p1\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|solutionrelative:ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\ja\\onedrive - politechnika warszawska\\pulpit\\nowy folder (2)\\studia\\sem 5\\pamw paum\\padium\\p1\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\userl\\padium\\p1\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\ja\\onedrive - politechnika warszawska\\pulpit\\nowy folder (2)\\studia\\sem 5\\pamw paum\\padium\\p1\\orderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|solutionrelative:orderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\userl\\padium\\p1\\iorderobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|solutionrelative:iorderobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\ja\\onedrive - politechnika warszawska\\pulpit\\nowy folder (2)\\studia\\sem 5\\pamw paum\\padium\\p1\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|solutionrelative:ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\userl\\padium\\p1\\productfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|solutionrelative:productfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\ja\\onedrive - politechnika warszawska\\pulpit\\nowy folder (2)\\studia\\sem 5\\pamw paum\\padium\\p1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\userl\\padium\\p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\userl\\padium\\p1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\userl\\padium\\p1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\userl\\padium\\p1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|c:\\users\\userl\\padium\\p1\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D657C2-C553-4398-9F1B-9211C95CC58C}|P1.csproj|solutionrelative:electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,127 +46,131 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\OrderFactory.cs",
-              "RelativeDocumentMoniker": "OrderFactory.cs",
-              "ToolTip": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\OrderFactory.cs",
-              "RelativeToolTip": "OrderFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\P1\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\P1\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T08:29:26.071Z",
+              "WhenOpened": "2024-10-08T12:36:43.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "OrderManager.cs",
-              "DocumentMoniker": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\OrderManager.cs",
-              "RelativeDocumentMoniker": "OrderManager.cs",
-              "ToolTip": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\OrderManager.cs",
-              "RelativeToolTip": "OrderManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\P1\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\P1\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T08:29:05.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PayPalPayment .cs",
-              "DocumentMoniker": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\PayPalPayment .cs",
-              "RelativeDocumentMoniker": "PayPalPayment .cs",
-              "ToolTip": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\PayPalPayment .cs",
-              "RelativeToolTip": "PayPalPayment .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T08:28:35.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T08:21:39.108Z",
+              "WhenOpened": "2024-10-08T12:36:25.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreditCardPayment .cs",
-              "DocumentMoniker": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\CreditCardPayment .cs",
-              "RelativeDocumentMoniker": "CreditCardPayment .cs",
-              "ToolTip": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\CreditCardPayment .cs",
-              "RelativeToolTip": "CreditCardPayment .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACOAAAAAAAAAA==",
+              "Title": "IOrderObserver.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\P1\\IOrderObserver.cs",
+              "RelativeDocumentMoniker": "IOrderObserver.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\P1\\IOrderObserver.cs",
+              "RelativeToolTip": "IOrderObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T08:27:52.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\Order.cs",
-              "RelativeDocumentMoniker": "Order.cs",
-              "ToolTip": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\Order.cs",
-              "RelativeToolTip": "Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T08:23:59.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IPaymentStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\IPaymentStrategy.cs",
-              "RelativeDocumentMoniker": "IPaymentStrategy.cs",
-              "ToolTip": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\IPaymentStrategy.cs",
-              "RelativeToolTip": "IPaymentStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T08:22:12.989Z",
+              "WhenOpened": "2024-10-08T12:36:07.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\Customer.cs",
-              "RelativeDocumentMoniker": "Customer.cs",
-              "ToolTip": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\Customer.cs",
-              "RelativeToolTip": "Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Title": "ProductFactory.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\P1\\ProductFactory.cs",
+              "RelativeDocumentMoniker": "ProductFactory.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\P1\\ProductFactory.cs",
+              "RelativeToolTip": "ProductFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T08:22:40.801Z",
+              "WhenOpened": "2024-10-08T12:35:48.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\Product.cs",
-              "RelativeDocumentMoniker": "Product.cs",
-              "ToolTip": "C:\\Users\\Ja\\OneDrive - Politechnika Warszawska\\Pulpit\\Nowy folder (2)\\Studia\\Sem 5\\PAMW PAUM\\PADiUM\\P1\\Product.cs",
-              "RelativeToolTip": "Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Title": "Electronics.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\P1\\Electronics.cs",
+              "RelativeDocumentMoniker": "Electronics.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\P1\\Electronics.cs",
+              "RelativeToolTip": "Electronics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T08:23:35.232Z",
+              "WhenOpened": "2024-10-08T12:35:06.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\P1\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\P1\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:34:41.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\P1\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\P1\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:34:20.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\P1\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\P1\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:33:38.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\P1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\P1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:21:39.108Z",
               "EditorCaption": ""
             }
           ]

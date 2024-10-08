@@ -1,29 +1,33 @@
 ﻿public class Order
 {
-    public Customer Customer { get; set; }
-    public List<Product> Products { get; set; } = new List<Product>();
-    public decimal TotalAmount => CalculateTotalAmount();
-    public IPaymentStrategy PaymentStrategy { get; set; }
+    private string status;
+    private List<IOrderObserver> observers = new List<IOrderObserver>();
 
-    private decimal CalculateTotalAmount()
+    public string Status
     {
-        decimal total = 0;
-        foreach (var product in Products)
+        get { return status; }
+        set
         {
-            total += product.Price;
+            status = value;
+            NotifyObservers();
         }
-        return total;
     }
 
-    public void ProcessPayment()
+    public void Attach(IOrderObserver observer)
     {
-        if (PaymentStrategy == null)
-        {
-            Console.WriteLine("Błąd: nie wybrano metody płatności.");
-            return;
-        }
+        observers.Add(observer);
+    }
 
-        Console.WriteLine($"Rozpoczęcie procesu płatności dla zamówienia o wartości {TotalAmount:C}");
-        PaymentStrategy.Pay(TotalAmount);
+    public void Detach(IOrderObserver observer)
+    {
+        observers.Remove(observer);
+    }
+
+    private void NotifyObservers()
+    {
+        foreach (var observer in observers)
+        {
+            observer.Update(status);
+        }
     }
 }
