@@ -1,0 +1,120 @@
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\P04WeatherForecastWPF.Client.exe
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\Images\raining.jpg
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\P04WeatherForecastWPF.Client.deps.json
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\P04WeatherForecastWPF.Client.runtimeconfig.json
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\P04WeatherForecastWPF.Client.dll
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\P04WeatherForecastWPF.Client.pdb
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\SecondWindow.g.cs
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client_Content.g.cs
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client_MarkupCompile.cache
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client_MarkupCompile.lref
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\SecondWindow.baml
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.g.resources
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\P04Weath.F3F2F140.Up2Date
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.dll
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\refint\P04WeatherForecastWPF.Client.dll
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.pdb
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\26Dzien12-master\P04WeatherForecastWPF.Client\obj\Debug\net8.0-windows\ref\P04WeatherForecastWPF.Client.dll
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\P04WeatherForecastWPF.Client.exe
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\Images\raining.jpg
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\P04WeatherForecastWPF.Client.deps.json
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\P04WeatherForecastWPF.Client.runtimeconfig.json
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\P04WeatherForecastWPF.Client.dll
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\P04WeatherForecastWPF.Client.pdb
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.csproj.AssemblyReference.cache
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\MainWindow.baml
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\MainWindow.g.cs
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\SecondWindow.g.cs
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\App.g.cs
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client_Content.g.cs
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client_MarkupCompile.cache
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client_MarkupCompile.lref
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\SecondWindow.baml
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.g.resources
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.AssemblyInfoInputs.cache
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.AssemblyInfo.cs
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\P04Weath.F3F2F140.Up2Date
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.dll
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\refint\P04WeatherForecastWPF.Client.dll
+c:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.pdb
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\None\college\year3\gowno obieralka\L3\obj\Debug\net8.0-windows\ref\P04WeatherForecastWPF.Client.dll
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\P04WeatherForecastWPF.Client.exe
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\Images\raining.jpg
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\P04WeatherForecastWPF.Client.deps.json
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\P04WeatherForecastWPF.Client.runtimeconfig.json
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\P04WeatherForecastWPF.Client.dll
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\P04WeatherForecastWPF.Client.pdb
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ja\Downloads\L3\L3\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.csproj.AssemblyReference.cache
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\SecondWindow.g.cs
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client_Content.g.cs
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client_MarkupCompile.cache
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client_MarkupCompile.lref
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\SecondWindow.baml
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.g.resources
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.AssemblyInfoInputs.cache
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.AssemblyInfo.cs
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\P04Weath.F3F2F140.Up2Date
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.dll
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\refint\P04WeatherForecastWPF.Client.dll
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.pdb
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\P04WeatherForecastWPF.Client.genruntimeconfig.cache
+C:\Users\Ja\Downloads\L3\L3\obj\Debug\net8.0-windows\ref\P04WeatherForecastWPF.Client.dll

@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ja\\Downloads\\L3\\L3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E48996D6-6FE3-4C40-B660-CADDBCF599D7}|P04WeatherForecastWPF.Client.csproj|c:\\users\\ja\\downloads\\l3\\l3\\viewmodels\\mainviewmodelv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48996D6-6FE3-4C40-B660-CADDBCF599D7}|P04WeatherForecastWPF.Client.csproj|solutionrelative:viewmodels\\mainviewmodelv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48996D6-6FE3-4C40-B660-CADDBCF599D7}|P04WeatherForecastWPF.Client.csproj|c:\\users\\ja\\downloads\\l3\\l3\\viewmodels\\imainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48996D6-6FE3-4C40-B660-CADDBCF599D7}|P04WeatherForecastWPF.Client.csproj|solutionrelative:viewmodels\\imainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48996D6-6FE3-4C40-B660-CADDBCF599D7}|P04WeatherForecastWPF.Client.csproj|c:\\users\\ja\\downloads\\l3\\l3\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48996D6-6FE3-4C40-B660-CADDBCF599D7}|P04WeatherForecastWPF.Client.csproj|solutionrelative:viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48996D6-6FE3-4C40-B660-CADDBCF599D7}|P04WeatherForecastWPF.Client.csproj|c:\\users\\ja\\downloads\\l3\\l3\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48996D6-6FE3-4C40-B660-CADDBCF599D7}|P04WeatherForecastWPF.Client.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48996D6-6FE3-4C40-B660-CADDBCF599D7}|P04WeatherForecastWPF.Client.csproj|c:\\users\\ja\\downloads\\l3\\l3\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48996D6-6FE3-4C40-B660-CADDBCF599D7}|P04WeatherForecastWPF.Client.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48996D6-6FE3-4C40-B660-CADDBCF599D7}|P04WeatherForecastWPF.Client.csproj|c:\\users\\ja\\downloads\\l3\\l3\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48996D6-6FE3-4C40-B660-CADDBCF599D7}|P04WeatherForecastWPF.Client.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48996D6-6FE3-4C40-B660-CADDBCF599D7}|P04WeatherForecastWPF.Client.csproj|c:\\users\\ja\\downloads\\l3\\l3\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48996D6-6FE3-4C40-B660-CADDBCF599D7}|P04WeatherForecastWPF.Client.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48996D6-6FE3-4C40-B660-CADDBCF599D7}|P04WeatherForecastWPF.Client.csproj|c:\\users\\ja\\downloads\\l3\\l3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E48996D6-6FE3-4C40-B660-CADDBCF599D7}|P04WeatherForecastWPF.Client.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Ja\\Downloads\\L3\\L3\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Ja\\Downloads\\L3\\L3\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:44:01.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModelV3.cs",
+              "DocumentMoniker": "C:\\Users\\Ja\\Downloads\\L3\\L3\\ViewModels\\MainViewModelV3.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModelV3.cs",
+              "ToolTip": "C:\\Users\\Ja\\Downloads\\L3\\L3\\ViewModels\\MainViewModelV3.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModelV3.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:39:36.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ja\\Downloads\\L3\\L3\\ViewModels\\IMainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\IMainViewModel.cs",
+              "ToolTip": "C:\\Users\\Ja\\Downloads\\L3\\L3\\ViewModels\\IMainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\IMainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:39:12.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Ja\\Downloads\\L3\\L3\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Ja\\Downloads\\L3\\L3\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:37:40.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ja\\Downloads\\L3\\L3\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Ja\\Downloads\\L3\\L3\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:37:47.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ja\\Downloads\\L3\\L3\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Ja\\Downloads\\L3\\L3\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:39:37.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Ja\\Downloads\\L3\\L3\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Ja\\Downloads\\L3\\L3\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:38:18.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Ja\\Downloads\\L3\\L3\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Ja\\Downloads\\L3\\L3\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T11:37:43.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

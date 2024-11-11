@@ -1,0 +1,31 @@
+﻿<Window x:Class="P04WeatherForecastWPF.Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Product Manager" Height="400" Width="600">
+    <Grid>
+        <StackPanel>
+            <TextBox Text="{Binding Name}" />
+            <TextBox Text="{Binding Description}" />
+            <TextBox Text="{Binding Price}" />
+            
+            <Button Command="{Binding AddProductCommand}" Content="Add Product" />
+            <Button Command="{Binding UpdateProductCommand}" Content="Update Product" />
+            <Button Command="{Binding DeleteProductCommand}" Content="Delete Product" />
+            
+            <ListBox ItemsSource="{Binding Products}" SelectedItem="{Binding SelectedProduct}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel>
+                            <TextBlock Text="{Binding Name}" />
+                            <TextBlock Text="{Binding Description}" />
+                            <TextBlock Text="{Binding Price}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+    </Grid>
+</Window>
