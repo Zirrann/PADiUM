@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\userl\\padium\\nowy folder\\consoleapp\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\userl\\padium\\nowy folder\\consoleapp\\consoleapp\\liblary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\liblary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\userl\\padium\\nowy folder\\consoleapp\\consoleapp\\sortbyaythor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\sortbyaythor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\userl\\padium\\nowy folder\\consoleapp\\consoleapp\\sortbypublishdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\sortbypublishdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\userl\\padium\\nowy folder\\consoleapp\\consoleapp\\isortstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\isortstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\userl\\padium\\nowy folder\\consoleapp\\consoleapp\\ratedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\ratedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\userl\\padium\\nowy folder\\consoleapp\\consoleapp\\bookdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\bookdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\userl\\padium\\nowy folder\\consoleapp\\consoleapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\userl\\padium\\nowy folder\\consoleapp\\consoleapp\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7878DDD-2E07-44CA-B64C-73ED0426359D}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Liblary.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\Liblary.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Liblary.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\Liblary.cs",
+              "RelativeToolTip": "ConsoleApp\\Liblary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:53:33.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SortByPublishDate.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\SortByPublishDate.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\SortByPublishDate.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\SortByPublishDate.cs",
+              "RelativeToolTip": "ConsoleApp\\SortByPublishDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:53:20.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SortByAythor.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\SortByAythor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\SortByAythor.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\SortByAythor.cs",
+              "RelativeToolTip": "ConsoleApp\\SortByAythor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:52:49.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISortStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\ISortStrategy.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\ISortStrategy.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\ISortStrategy.cs",
+              "RelativeToolTip": "ConsoleApp\\ISortStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:52:20.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NoteBook.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\NoteBook.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\NoteBook.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\NoteBook.cs",
+              "RelativeToolTip": "ConsoleApp\\NoteBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:51:46.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RateDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\RateDecorator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\RateDecorator.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\RateDecorator.cs",
+              "RelativeToolTip": "ConsoleApp\\RateDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:51:29.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\BookDecorator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\BookDecorator.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\BookDecorator.cs",
+              "RelativeToolTip": "ConsoleApp\\BookDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:51:07.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\Book.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Book.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\Book.cs",
+              "RelativeToolTip": "ConsoleApp\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:50:48.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\userl\\PADiUM\\Nowy folder\\ConsoleApp\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:50:16.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,24 +2,34 @@
 {
     public static void Main(string[] args)
     {
-        var customer = new Customer
+        // Tworzenie produktów
+        var db = Database.GetInstance();
+        var book = ProductFactory.CreateProduct("book");
+        book.Name = "C# Programming";
+        ((Book)book).Author = "John Doe";
+        db.AddProduct(book);
+
+        var electronics = ProductFactory.CreateProduct("electronics");
+        electronics.Name = "Smartphone";
+        ((Electronics)electronics).Brand = "Brand X";
+        db.AddProduct(electronics);
+
+        // Wyświetlanie produktów
+        foreach (var product in db.GetProducts())
         {
-            Name = "Jan Kowalski",
-            Email = "jan.kowalski@example.com"
-        };
+            product.DisplayInfo();
+        }
 
-        var product1 = new Product { Name = "Laptop", Price = 3000 };
-        var product2 = new Product { Name = "Myszka", Price = 150 };
-        var products = new List<Product> { product1, product2 };
+        // Tworzenie zamówienia i powiadamianie użytkowników
+        var order = new Order();
+        var user1 = new User("Alice");
+        var user2 = new User("Bob");
 
-        var creditCardPayment = new CreditCardPayment("1234 5678 9012 3456", "Jan Kowalski", "12/25");
+        order.Attach(user1);
+        order.Attach(user2);
 
-        var orderManager = OrderManager.Instance;
-        orderManager.CreateOrder(customer, products, creditCardPayment);
-
-        Console.WriteLine("\n---\n");
-
-        var paypalPayment = new PayPalPayment("jan.kowalski@example.com", "sekretnehaslo");
-        orderManager.CreateOrder(customer, products, paypalPayment);
+        // Zmiana statusu zamówienia
+        order.Status = "Złożono";
+        order.Status = "Wysłano";
     }
 }
